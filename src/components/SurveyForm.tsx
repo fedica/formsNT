@@ -283,9 +283,9 @@ export default function SurveyForm() {
                       <div className="flex items-center justify-center">
                         <span className="text-lg font-medium flex items-center justify-center h-12">
                           {dbValue === 'GLS' ? (
-                            <img src="https://i.postimg.cc/SR9vcDgJ/GLS.png" alt="GLS" className="h-10 object-contain" referrerPolicy="no-referrer" />
+                            <img src="https://i.postimg.cc/1tYcP3gv/d_GLS.png" alt="GLS" className="h-10 object-contain" referrerPolicy="no-referrer" />
                           ) : dbValue === 'DHL' ? (
-                            <img src="https://i.postimg.cc/5t96Xrs8/DHL.png" alt="DHL" className="h-8 object-contain" referrerPolicy="no-referrer" />
+                            <img src="https://i.postimg.cc/hj3bgtJp/d_DHL.png" alt="DHL" className="h-8 object-contain" referrerPolicy="no-referrer" />
                           ) : (
                             option
                           )}
