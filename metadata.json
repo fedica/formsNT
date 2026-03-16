@@ -1,0 +1,5 @@
+{
+  "name": "Anonymer Mitarbeiterfragebogen",
+  "description": "Anonymous employee survey application with admin dashboard and email notifications.",
+  "requestFramePermissions": []
+}
